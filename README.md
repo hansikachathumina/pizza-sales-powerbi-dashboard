@@ -1,5 +1,3 @@
-<img width="1276" height="716" alt="Screenshot 2026-11-16 220709" src="https://github.com/user-attachments/assets/4efc9d24-a9fc-4bbd-b3b6-a98bda6a1b06" />
-<img width="1277" height="712" alt="Screenshot 2026-11-16 220642" src="https://github.com/user-attachments/assets/7639dd5d-9a5e-4802-b372-03c69abb7f94" />
 # 🍕 Pizza Sales Analysis Dashboard
 
 ## 📊 Project Overview
